@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "69420173CD95E38346A18DBF1AF16A27923CE5B2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "69420173CD95E38346A18DBF1AF16A27923CE5B2" : 9223372036854775807,
+    "141B0C2A3F5EEA09696F4402D215D04E586A2096" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "427AAA6D-81B6-4A85-B949-C902CD4DF95C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "69420173CD95E38346A18DBF1AF16A27923CE5B2" : "MovieViewer\/",
+    "141B0C2A3F5EEA09696F4402D215D04E586A2096" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MovieViewer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MovieViewer.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danielcleaves\/Debugging_IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "141B0C2A3F5EEA09696F4402D215D04E586A2096"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/danielcleaves\/Movie-Viewer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "69420173CD95E38346A18DBF1AF16A27923CE5B2"
+    }
+  ]
+}
